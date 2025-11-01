@@ -104,5 +104,5 @@ Then open:
 ---
 
 ## 💡 Credits
-Created by **Harsha C**
+Created by **Harsha C** 
 Assignment: *Curriculum Developer Intern — Kid-safe Mood2Emoji Project*

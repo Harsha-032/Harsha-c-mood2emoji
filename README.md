@@ -4,6 +4,16 @@
 
 ---
 
+## 🧭 How to Use the Live App
+
+1. Visit the live site: [https://harsha-c-mood2emoji.vercel.app/](https://harsha-c-mood2emoji.vercel.app/)
+2. Type a simple **happy, sad, or angry** sentence in the input box.  
+3. Click the **Detect Mood** button.  
+4. ⏳ Wait for **around 50 seconds** for the first response — since the backend is hosted on **Render (free version)**, it takes some time to start the server from sleep.  
+5. Once ready, the emoji and explanation will appear! 🎉
+
+---
+
 ## 📘 Project Overview
 
 **Mood2Emoji** is a simple, kid-safe web app that detects the mood of a short sentence and returns an emoji along with a friendly explanation.
@@ -86,6 +96,7 @@ Then open:
 **Backend:** http://127.0.0.1:8000  
 
 ---
+
 
 ## 📦 API Endpoint
 

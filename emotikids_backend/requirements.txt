@@ -1,0 +1,9 @@
+Django>=4.2
+djangorestframework
+textblob
+django-cors-headers
+gunicorn
+psycopg2-binary
+whitenoise
+dj-database-url
+python-dotenv
